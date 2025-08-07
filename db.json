@@ -1,0 +1,21 @@
+{
+  "enquiry": [
+    {
+      "firstName": "TEJASWINEE",
+      "lastName": "BABAR",
+      "email": "mgwAewfh@VmuFH8",
+      "mobile": "mgwAewfh@VmuFH8",
+      "weight": 45,
+      "height": 162,
+      "bmi": 0.0006096631611034903,
+      "bmiResult": "Underweight",
+      "opt": "Yes",
+      "gender": "Male",
+      "package": "Monthly",
+      "important": "",
+      "havebeengym": "Yes",
+      "enquirydate": "2023-06-27T18:30:00.000Z",
+      "id": 5
+    }
+  ]
+}
